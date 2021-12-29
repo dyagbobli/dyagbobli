@@ -1,4 +1,4 @@
-- 🤓☸️〽️ Hi there, this is your guy **Divine**
+**- 🤓☸️〽️ Hi there, this is your guy Divine**
 - -------------------------------------------
 I have a Civil Engineering Background with a Bachelor's degree from the African-Ghanaian famous Kwame Nkrumah University of Science and Technology
 - ☸️ I am an upcoming Data Scientist with interest in Computer Vison | AI | ML & Data Analytics for Transportation Safety & Mobility improvement
