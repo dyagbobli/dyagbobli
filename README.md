@@ -5,7 +5,7 @@ I have a Civil Engineering Background with a Bachelor's degree from the African-
 - 🤓 I am a die-hard fan for the **Automous Driving Vehicle** & **Intelligent Transportation Systems** experience
 - 🌱 I’m currently taking courses **Data Scientist** **| HTML | CSS | JavaScript | SQL**
 - 〽️💞️ I am looking to collaborate any interested Data Science enthusiast to take on a major project aimed at improving roadway safety on Ghanaian Highways
-- 📫 You can reach out to me via: ingdyagbobli@gmail.com
+- 📫 You can reach out to me via: dyagbobli@gmail.com
 
 <!---
 dyagbobli/dyagbobli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
